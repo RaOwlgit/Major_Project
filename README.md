@@ -76,7 +76,7 @@ After hardening the systems, I repeated the Phase 1 attacks to verify the defens
 
 ## 📸 Screenshots
 *Include your project screenshots here to demonstrate your work:*
-* **Azure Deployment** (with student name visible)
+![Alt text](Screenshot/)
 * **Wazuh SIEM Dashboard**
 * **Attack Logs (Before vs. After Hardening)**
 
