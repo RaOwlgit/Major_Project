@@ -75,13 +75,8 @@ After hardening the systems, I repeated the Phase 1 attacks to verify the defens
 ---
 
 ## 📸 Screenshots
-**Install Nmap**
+* **Install Nmap**
 ![Installing Nmap](Screenshot/Screenshot%20from%202025-12-24%2015-54-44.png)
----
-**Install Nmap**
-![Installing Nmap](Screenshot/Screenshot%20from%202025-12-24%2015-54-44.png)
----
-
 ---
 
 ## 🎓 Learning Outcomes
