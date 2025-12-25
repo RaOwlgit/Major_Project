@@ -76,7 +76,7 @@ After hardening the systems, I repeated the Phase 1 attacks to verify the defens
 
 ## 📸 Screenshots
 *Include your project screenshots here to demonstrate your work:*
-![Installing Nmap](Screenshot/nmap-install.png)
+![Installing Nmap](Screenshot/Screenshot%20from%202025-12-24%2015-54-44.png)
 * **Wazuh SIEM Dashboard**
 * **Attack Logs (Before vs. After Hardening)**
 
